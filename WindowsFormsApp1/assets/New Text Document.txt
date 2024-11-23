@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<event>
+<week>-mtwtf-</week>
+<starttime>06:00</starttime>
+<endtime>11:59</endt ime>
+<playList>morning.m3u8</playlist>
+</event>
+<event>
+<week>SMTWTFS</week>
+<starttime>12:00</starttime>
+<endtime>20:59</endt ime>
+<playList>afternoon.m3u8</playlist>
+</event>
+</events>
